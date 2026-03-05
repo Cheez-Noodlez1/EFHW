@@ -1,0 +1,7 @@
+{
+  "hostile_entities": [
+    { "name": "Jonathan James", "status": "Neutralized", "method": "Sonic Overload" },
+    { "name": "WannaCry_Creator", "status": "Quarantined", "method": "Reid_Tech_Firewall" },
+    { "name": "Anonymous_Hacker_1", "status": "Disconnected", "method": "Patronus_Blast" }
+  ]
+}

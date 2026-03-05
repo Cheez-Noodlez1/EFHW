@@ -15,5 +15,6 @@ The official victory anthem **"Cheez Noodlez Protocol: Victory"** is included in
 
 ## 🖼️ Media
 ![EFHW Movie Poster](./media/poster.png)
-*Visuals generated via Cheez Noodlez AI protocols.*
-*This is made by ai becuz i wanted to make a polemod video*
+
+**Visuals generated via Cheez Noodlez AI protocols.**
+**This is made by ai becuz i wanted to make a polemod video**
